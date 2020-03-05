@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignInScreenLayout</string>
+    <string name="forgot_your_passport">Forgot your passport</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile</string>
+    <string name="signintoyouraccount">Sign In To Your Account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="forgot_your_password">ff</string>
+    <string name="a">Forgot Your Password</string>
+</resources>
